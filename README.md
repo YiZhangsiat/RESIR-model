@@ -1,2 +1,2 @@
 # RESIR-model
-RESIR mode for the manuscript 'A spatial continuous directed evolution system based on bacterial range expansion '
+RESIR mode for the manuscript 'Exploiting spatial dimensions to enable parallelized continuous directed evolution'
